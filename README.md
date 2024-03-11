@@ -1,16 +1,20 @@
-### Hi there 👋
-
-<!--
-**Matheus-Pedro/Matheus-Pedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>Hello, you're welcome! I'm Matheus 👋👋 </h1>
+<div>
+  <ul>
+    <li>💻 I've been working with: </li>
+    <ul>
+      <li>Django</li>
+      <li>Postgres</li>
+      <li>React</li>
+    </ul>
+    <li>✍️ I'm learning: </li>
+    <ul>
+      <li>C#</li>
+      <li>Java</li>
+    </ul>
+    <li>🤷‍♂️ I'm collaborating on projects at the company MaestriEdu and developing several integrative projects in my study environment </li>
+    <li>📫 How to contact me: matheus.caprioli.pedro@gmail.com </li>
+  </ul>  
+</div>
+<hr>
+<img src="https://github-readme-stats.vercel.app/api?username=Matheus-Pedro&show_icons=true&theme=dracula"/>

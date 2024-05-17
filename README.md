@@ -9,8 +9,8 @@
     </ul>
     <li>✍️ I'm learning: </li>
     <ul>
-      <li>C#</li>
-      <li>Java</li>
+      <li>Bootstrap</li>
+      <li>REST</li>
     </ul>
     <li>🤷‍♂️ I'm collaborating on projects at the company MaestriEdu and developing several integrative projects in my study environment </li>
     <li>📫 How to contact me: matheus.caprioli.pedro@gmail.com </li>

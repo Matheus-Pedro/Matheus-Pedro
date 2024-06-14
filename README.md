@@ -1,4 +1,4 @@
-<h1>Hello, you're welcome! I'm Matheus 👋👋 </h1>
+<h1>Hello, welcome! I'm Matheus 👋👋 </h1>
 <div>
   <ul>
     <li>💻 I've been working with: </li>

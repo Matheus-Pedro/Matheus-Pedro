@@ -30,18 +30,26 @@
 
 
 ### Other Knowledge:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![Javascript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
 ![C](https://img.shields.io/badge/-c_lang-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![Selenium](https://img.shields.io/badge/-selenium-0D1117?style=for-the-badge&logo=selenium&labelColor=0D1117)&nbsp;
 
 
+![postgresql](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![sql_server](https://img.shields.io/badge/-sql_server-0D1117?style=for-the-badge&logo=sqlserver&labelColor=0D1117)&nbsp;
+![sqlite](https://img.shields.io/badge/-sqlite-0D1117?style=for-the-badge&logo=sqlite&logoColor=003B57&labelColor=0D1117)&nbsp;
+
+
+
+
+
 
 ![dotnet](https://img.shields.io/badge/-dotnet-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4&labelColor=0D1117)&nbsp;
 ![react](https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
@@ -49,13 +57,6 @@
 ![django](https://img.shields.io/badge/-django-0D1117?style=for-the-badge&logo=django&logoColor=092E20&labelColor=0D1117)&nbsp;
 ![fastapi](https://img.shields.io/badge/-fastapi-0D1117?style=for-the-badge&logo=fastapi&labelColor=0D1117)&nbsp;
 ![flask](https://img.shields.io/badge/-flask-0D1117?style=for-the-badge&logo=flask&labelColor=0D1117)&nbsp;
-
-
-react
-react_native
-flask
-django
-fastapi
 
 
 ### DevOps:
@@ -74,7 +75,7 @@ fastapi
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Matheus-Pedro}/count.svg" /></p> 
 <br></div>
 
-## Contact me
+### Contact me:
 [![Gmail Badge](https://img.shields.io/badge/-matheus.caprioli.pedro@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheus.caprioli.pedro@gmail.com)](mailto:matheus.caprioli.pedro@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/Matheus-Pedro)
 

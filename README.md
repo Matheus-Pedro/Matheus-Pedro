@@ -29,8 +29,6 @@
 
 
 
-
-
 ### Other Knowledge:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
@@ -44,7 +42,7 @@
 ![DOCKER](https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
 ![GIT](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GITHUB](https://img.shields.io/badge/-github-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![NGINX](https://img.shields.io/badge/-nginx-0D1117?style=for-the-badge&logo=nginx&labelColor=0D1117)&nbsp;
+![NGINX](https://img.shields.io/badge/-nginx-0D1117?style=for-the-badge&logo=nginx&logoColor=009639&labelColor=0D1117)&nbsp;
 ![XAMPP](https://img.shields.io/badge/-xampp-0D1117?style=for-the-badge&logo=xampp&labelColor=0D1117)&nbsp;
 ![VIRTUALBOX](https://img.shields.io/badge/-virtualbox-0D1117?style=for-the-badge&logo=virtualbox&labelColor=0D1117)&nbsp;
 

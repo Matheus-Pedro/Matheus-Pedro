@@ -14,19 +14,18 @@
 <a href="https://www.instagram.com/matheus.sql/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/matheus-caprioli//" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div> 
- 
+
 ### Main skills:
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
- 
+
+
 ### Tools:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117)&nbsp;
 ![PyCharm](https://img.shields.io/badge/-pycharm-0D1117?style=for-the-badge&logo=pycharm&labelColor=0D1117)&nbsp;
-
-
 
 
 ### Other Knowledge:
@@ -39,34 +38,32 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![Selenium](https://img.shields.io/badge/-selenium-0D1117?style=for-the-badge&logo=selenium&labelColor=0D1117)&nbsp;
-
-
-![postgresql](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![sql_server](https://img.shields.io/badge/-sql_server-0D1117?style=for-the-badge&logo=sqlserver&labelColor=0D1117)&nbsp;
-![sqlite](https://img.shields.io/badge/-sqlite-0D1117?style=for-the-badge&logo=sqlite&logoColor=003B57&labelColor=0D1117)&nbsp;
-
-
-
-
-
-
-![dotnet](https://img.shields.io/badge/-dotnet-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4&labelColor=0D1117)&nbsp;
-![react](https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![react_native](https://img.shields.io/badge/-react_native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![django](https://img.shields.io/badge/-django-0D1117?style=for-the-badge&logo=django&logoColor=092E20&labelColor=0D1117)&nbsp;
-![fastapi](https://img.shields.io/badge/-fastapi-0D1117?style=for-the-badge&logo=fastapi&labelColor=0D1117)&nbsp;
-![flask](https://img.shields.io/badge/-flask-0D1117?style=for-the-badge&logo=flask&labelColor=0D1117)&nbsp;
+![SQLserver](https://img.shields.io/badge/-sql_server-0D1117?style=for-the-badge&logo=sqlserver&labelColor=0D1117)&nbsp;
+![SQLite](https://img.shields.io/badge/-sqlite-0D1117?style=for-the-badge&logo=sqlite&logoColor=003B57&labelColor=0D1117)&nbsp;
+![DotNet](https://img.shields.io/badge/-dotnet-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4&labelColor=0D1117)&nbsp;
+![React](https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![ReactNative](https://img.shields.io/badge/-react_native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Django](https://img.shields.io/badge/-django-0D1117?style=for-the-badge&logo=django&logoColor=092E20&labelColor=0D1117)&nbsp;
+![FastAPI](https://img.shields.io/badge/-fastapi-0D1117?style=for-the-badge&logo=fastapi&labelColor=0D1117)&nbsp;
+![Flask](https://img.shields.io/badge/-flask-0D1117?style=for-the-badge&logo=flask&labelColor=0D1117)&nbsp;
 
 
 ### DevOps:
-![LINUX](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
-![DOCKER](https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
-![GIT](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GITHUB](https://img.shields.io/badge/-github-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![NGINX](https://img.shields.io/badge/-nginx-0D1117?style=for-the-badge&logo=nginx&logoColor=009639&labelColor=0D1117)&nbsp;
-![XAMPP](https://img.shields.io/badge/-xampp-0D1117?style=for-the-badge&logo=xampp&labelColor=0D1117)&nbsp;
-![VIRTUALBOX](https://img.shields.io/badge/-virtualbox-0D1117?style=for-the-badge&logo=virtualbox&labelColor=0D1117)&nbsp;
+![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
+![Docker](https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-github-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Nginx](https://img.shields.io/badge/-nginx-0D1117?style=for-the-badge&logo=nginx&logoColor=009639&labelColor=0D1117)&nbsp;
+![Xampp](https://img.shields.io/badge/-xampp-0D1117?style=for-the-badge&logo=xampp&labelColor=0D1117)&nbsp;
+![VirtualBox](https://img.shields.io/badge/-virtualbox-0D1117?style=for-the-badge&logo=virtualbox&labelColor=0D1117)&nbsp;
+
+
+
+### Contact me:
+[![Gmail Badge](https://img.shields.io/badge/-matheus.caprioli.pedro@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheus.caprioli.pedro@gmail.com)](mailto:matheus.caprioli.pedro@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/Matheus-Pedro)
 
 
 
@@ -75,8 +72,5 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Matheus-Pedro}/count.svg" /></p> 
 <br></div>
 
-### Contact me:
-[![Gmail Badge](https://img.shields.io/badge/-matheus.caprioli.pedro@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheus.caprioli.pedro@gmail.com)](mailto:matheus.caprioli.pedro@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/Matheus-Pedro)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f8ad09&height=120&section=footer"/>

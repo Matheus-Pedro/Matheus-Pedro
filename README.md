@@ -13,7 +13,6 @@
 <div align="center">  
 <a href="https://www.instagram.com/matheus.sql/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/matheus-caprioli//" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-  
 </div> 
  
 ### Main skills:
@@ -25,6 +24,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117)&nbsp;
+![PyCharm](https://img.shields.io/badge/-pycharm-0D1117?style=for-the-badge&logo=pycharm&labelColor=0D1117)&nbsp;
+
+
+
 
 
 

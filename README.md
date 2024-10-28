@@ -63,13 +63,6 @@
 ![VirtualBox](https://img.shields.io/badge/-virtualbox-0D1117?style=for-the-badge&logo=virtualbox&labelColor=0D1117)&nbsp;
 
 
-
-### Contact me:
-[![Gmail Badge](https://img.shields.io/badge/-matheus.caprioli.pedro@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheus.caprioli.pedro@gmail.com)](mailto:matheus.caprioli.pedro@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/Matheus-Pedro)
-
-
-
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Matheus-Pedro}/count.svg" /></p> 

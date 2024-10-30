@@ -20,6 +20,7 @@
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC&labelColor=0D1117)&nbsp;
 
 
 

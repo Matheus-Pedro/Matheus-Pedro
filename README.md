@@ -29,7 +29,7 @@
 ![PyCharm](https://img.shields.io/badge/-pycharm-0D1117?style=for-the-badge&logo=pycharm&labelColor=0D1117)&nbsp;
 
 ### Other Knowledge:angular
-![Java](https://img.shields.io/badge/-openjdk-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![Javascript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;

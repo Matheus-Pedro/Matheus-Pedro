@@ -28,9 +28,10 @@
 ![Figma](https://img.shields.io/badge/-postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117)&nbsp;
 ![PyCharm](https://img.shields.io/badge/-pycharm-0D1117?style=for-the-badge&logo=pycharm&labelColor=0D1117)&nbsp;
 
-### Other Knowledge:
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
+### Other Knowledge:angular
+![Java](https://img.shields.io/badge/-openjdk-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![Javascript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
 ![C](https://img.shields.io/badge/-c_lang-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
@@ -43,6 +44,7 @@
 ![SQLserver](https://img.shields.io/badge/-sql_server-0D1117?style=for-the-badge&logo=sqlserver&labelColor=0D1117)&nbsp;
 ![SQLite](https://img.shields.io/badge/-sqlite-0D1117?style=for-the-badge&logo=sqlite&logoColor=003B57&labelColor=0D1117)&nbsp;
 ![DotNet](https://img.shields.io/badge/-dotnet-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4&labelColor=0D1117)&nbsp;
+![Angular](https://img.shields.io/badge/-angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117)&nbsp;
 ![React](https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![ReactNative](https://img.shields.io/badge/-react_native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Django](https://img.shields.io/badge/-django-0D1117?style=for-the-badge&logo=django&logoColor=092E20&labelColor=0D1117)&nbsp;
